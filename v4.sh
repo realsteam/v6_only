@@ -29,7 +29,7 @@ case $choice in
     warp-cli connect
     warp-cli enable-always-on
     apt install wget
-    curl -Ls https://raw.githubusercontent.com/Lynn-Becky/v6_only/main/proxychains4.conf -o proxychains4.conf
+    curl -Ls https://raw.githubusercontent.com/realsteam/v6_only/main/proxychains4.conf -o proxychains4.conf
     mv proxychains4.conf /etc/proxychains4.conf 
 
     ;;
