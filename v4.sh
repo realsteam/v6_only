@@ -25,7 +25,7 @@ case $choice in
     apt update && apt install -y cloudflare-warp
     warp-cli register 
     warp-cli set-mode proxy
-    warp-cli set-proxy-port 1835
+    warp-cli set-proxy-port 3105
     warp-cli connect
     warp-cli enable-always-on
     apt install wget
