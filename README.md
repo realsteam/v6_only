@@ -3,7 +3,7 @@
 # 功能介绍
 
 - 提供了Nat64与warp两种方式，获取ipv4访问能力
-- proxychains4 的socks端口为1835
+- proxychains4 的socks端口为3105
 
 # 部署
 
